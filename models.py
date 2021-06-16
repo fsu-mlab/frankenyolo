@@ -3,7 +3,7 @@ Author: John Sutor
 Date: June 7th, 2021
 
 This file contains the source code for creating a FrankenYOLO. It is built on top of 
-the 
+PyTorch Lightning.
 """
 
 from timm.models.byobnet import num_groups
